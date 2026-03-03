@@ -1,0 +1,9 @@
+.env
+credentials.json
+.ipynb_checkpoints/
+*.pyc
+__pycache__/
+data/raw/
+logs/
+project-blueprint.html
+Untitled.ipynb
